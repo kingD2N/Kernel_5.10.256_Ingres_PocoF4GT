@@ -396,7 +396,7 @@ jobs:
            | 📱 Device | POCO F4 GT (ingres) • Redmi K50G (ingres) |
            | 🟠 ROM Support | Official AOSP Only |
            | 🖥️ Kernel Name | ${KERNEL_NAME}
-           | 🧬 Kernel Base | android12-5.10 |
+           | 🧬 Kernel Base | android12-5.10.256 |
            | 🛠️ Build Scope | ZIP, IMG |
            | 📦 Source | ${{ inputs.kernel_source }} |
            | ⚔️ Kernel branch | ${{ inputs.kernel_branch }}
