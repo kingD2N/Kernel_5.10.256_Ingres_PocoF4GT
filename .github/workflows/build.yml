@@ -391,6 +391,8 @@ jobs:
 
           gh release create "$REL_NAME" --title "$REL_NAME" --notes "# Kernel BEPADAAN for POCO F4 GT (ingres)
 
+          <img width="1408" height="768" alt="IMG_20260720_234042_767" src="https://github.com/user-attachments/assets/8e34dab3-41bd-4aa2-ba74-2ad610a37398" />
+          
            | | |
            |:---|:---|
            | 📱 Device | POCO F4 GT (ingres) • Redmi K50G (ingres) |
