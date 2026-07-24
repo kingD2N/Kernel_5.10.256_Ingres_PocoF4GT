@@ -311,7 +311,7 @@ jobs:
             git clone --depth=1 https://github.com/Sakion-Team/Re-Kernel.git rekernel-src
             bash rekernel-src/Integrate/patches.sh
             echo "CONFIG_REKERNEL=y" >> arch/arm64/configs/gki_defconfig
-            echo "CONFIG_REKERNEL_NETWORK=n" >> arch/arm64/configs/gki_defconfig
+            echo "CONFIG_REKERNEL_NETWORK=y" >> arch/arm64/configs/gki_defconfig
           fi
 
           DROIDSPACES_CONFIG=""
